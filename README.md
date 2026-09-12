@@ -188,3 +188,6 @@ cloud-native-fraud-detection-analytics-pipeline/
 │
 ├── .gitignore
 └── README.md
+## Power BI Dashboard
+
+![Fraud Detection Dashboard](dashboard/dashboard_preview.png)
